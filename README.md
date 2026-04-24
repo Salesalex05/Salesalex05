@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou Alex Sales
 
-<!--
-**Salesalex05/Salesalex05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedor Backend em aprendizado  
+📍 São Paulo - Brasil  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Node.js
+- MySQL
+- HTML
+- CSS
+- Git
+
+## 📦 Projetos
+
+### Agiliza Estoque
+Sistema de controle de estoque com Node.js e MySQL.
+
+### CashBot
+Sistema de controle financeiro pessoal.
+
+## 📫 Contato
+
+Email: as1638023@gmail.com
+LinkedIn: www.linkedin.com/in/alex-sales-468ba0391
